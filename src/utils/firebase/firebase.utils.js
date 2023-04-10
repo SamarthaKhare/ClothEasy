@@ -21,12 +21,12 @@ import {
 } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDDU4V-_QV3M8GyhC9SVieRTDM4dbiT0Yk',
-  authDomain: 'crwn-clothing-db-98d4d.firebaseapp.com',
-  projectId: 'crwn-clothing-db-98d4d',
-  storageBucket: 'crwn-clothing-db-98d4d.appspot.com',
-  messagingSenderId: '626766232035',
-  appId: '1:626766232035:web:506621582dab103a4d08d6',
+ apiKey: "AIzaSyC9mdWeZwwhfnSEfk6jIAeCfviLcfZe2Vw",
+  authDomain: "clotheasy-8e86f.firebaseapp.com",
+  projectId: "clotheasy-8e86f",
+  storageBucket: "clotheasy-8e86f.appspot.com",
+  messagingSenderId: "182067776274",
+  appId: "1:182067776274:web:2be61468a8507d06e081cb"
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
